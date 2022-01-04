@@ -1,9 +1,10 @@
 # Biscoito-da-sorte
 
 <div>
- <img src="img/tela.png"/>
+ <img src="tela2.png"/>
+ <img src="tela1.png"/>
 </div>
 
 
-## Curso da origamid 
-<a href="https://www.origamid.com/">https://www.origamid.com/</a>
+## Curso da Fabrica de Aplicativos - React native
+<a href="https://www.origamid.com/">https://https://sujeitoprogramador.com/fabricadeaplicativos/</a>
