@@ -7,4 +7,4 @@
 
 
 ## Curso da Fabrica de Aplicativos - React native
-<a href="https://www.origamid.com/">https://https://sujeitoprogramador.com/fabricadeaplicativos/</a>
+<a href="https://www.origamid.com/">https://sujeitoprogramador.com/fabricadeaplicativos/</a>
