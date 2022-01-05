@@ -1,5 +1,5 @@
 # Biscoito-da-sorte
-## Aula useState
+## Aprendedo um pouco mais sobre useState
 
 <div>
  <img src="tela2.png"/>
@@ -7,5 +7,3 @@
 </div>
 
 
-## Curso da Fabrica de Aplicativos - React native
-<a href="https://www.origamid.com/">https://sujeitoprogramador.com/fabricadeaplicativos/</a>
