@@ -1,5 +1,5 @@
 # Biscoito-da-sorte
-## Aprendedo um pouco mais sobre useState
+## Aprendendo um pouco mais sobre useState
 
 <div>
  <img src="tela2.png"/>
